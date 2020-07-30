@@ -1,0 +1,1 @@
+python3 ~/Metalearning-Robustness/code/train.py -a resnet18 -j 16 --gpu 0 --effective-bs 128 --evaluate corrupted --epochs 90 --train --augment-train-data --augmentations Identity StyleTransfer --augmentation-mean 0.1 --min-magnitude 0 --max-magnitude 1 /gpfs01/bethge/data/sixteen-class-imagenet-balanced-trainval

@@ -1,0 +1,1 @@
+python3 ~/Metalearning-Robustness/code/train_in.py -a resnet50 -j 16 --gpu 0 1 --lr 0.01 --batch-size 256 --effective-bs 64 --pretrained --evaluate clean --increasing-alpha 6 --epochs 60 --seed 131213 --style-subset 1024 --train /gpfs01/bethge/data/imagenet-raw/raw-data/
