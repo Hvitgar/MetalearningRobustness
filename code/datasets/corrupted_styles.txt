@@ -1,0 +1,22 @@
+/gpfs01/bethge/data/painter_by_numbers/train/101947.jpg,image file is truncated (82 bytes not processed)
+/gpfs01/bethge/data/painter_by_numbers/train/102257.jpg,Image size (107327830 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/32649.jpg,Image size (129097476 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/3321.jpg,Image size (131790400 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/33557.jpg,Image size (746700000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/38814.jpg,Image size (94435468 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/3917.jpg,image file is truncated (39 bytes not processed)
+/gpfs01/bethge/data/painter_by_numbers/train/41945.jpg,image file is truncated (53 bytes not processed)
+/gpfs01/bethge/data/painter_by_numbers/train/4436.jpg,Image size (129086580 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/46794.jpg,Image size (95799284 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/50420.jpg,Image size (680730000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/64182.jpg,Image size (145486286 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/72255.jpg,Image size (888150000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/75232.jpg,Image size (99962094 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/79499.jpg,image file is truncated (4054 bytes not processed)
+/gpfs01/bethge/data/painter_by_numbers/train/81823.jpg,Image size (669000000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/82594.jpg,Image size (698700000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/91033.jpg,image file is truncated (86 bytes not processed)
+/gpfs01/bethge/data/painter_by_numbers/train/92899.jpg,image file is truncated (24 bytes not processed)
+/gpfs01/bethge/data/painter_by_numbers/train/95010.jpg,Image size (636480000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+/gpfs01/bethge/data/painter_by_numbers/train/95347.jpg,image file is truncated (0 bytes not processed)
+/gpfs01/bethge/data/painter_by_numbers/train/98873.jpg,Image size (283327979 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
